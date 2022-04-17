@@ -1,0 +1,28 @@
+.main{
+    margin-left: 20%;
+    margin-top: 10%;
+    width: 60%;
+    height: 60%;
+}
+
+.column_custom{
+    background: #f1f1e6;
+    font-size: 15pt ;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.column_custom2{
+    background: #f1fcfc;
+    font-size: 15pt ;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.result{
+    margin-top: 5%;
+}
+
+.navbar_custom:hover{
+    box-shadow: 0 0 15px #ffffff;
+}
